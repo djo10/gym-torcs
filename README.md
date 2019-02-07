@@ -30,4 +30,20 @@
     The GUI of TORCS should be launched. 
     Then go to `Race -> Quick Race -> Configure Race -> Accept` and make sure that src_server1 has been selected and put focus on it.
 
+## Screenshot and settings
 
+![Torcs Screenshot](torcs-screenshot.png)
+
+
+Changes to original version mention bellow:
+- Car is displayed in screen
+- Screen resolution is higher than initial 64x64
+
+## Hotkeys
+   
+   F2 - change camera
+
+
+## Credits
+
+All credits goes to https://github.com/ugo-nama-kun/gym_torcs
